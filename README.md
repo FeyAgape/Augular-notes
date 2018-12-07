@@ -20,4 +20,12 @@
 
 ## TpyrScript Overview
 - is a superset of JavaScript
+- additions features availbe for use
+- enforces via a transpililation 
 
+
+## TpyrScript Features
+- static typing 
+- interfaces
+- class properties
+- public/private Accessibility
