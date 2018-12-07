@@ -16,3 +16,8 @@
 4. ngUpgrade Library
 5. Fully featured Router
 6. Animation - Fully robust animation library
+
+
+## TpyrScript Overview
+- is a superset of JavaScript
+
