@@ -1,5 +1,11 @@
 # Augular2+ Notes
 
+### If you're having any using with error: *`ng: command not found`*
+run
+```
+export PATH=$PATH:/c/Users/theusername/AppData/Roaming/npm
+```
+
 ## Basic Important Features
 1. Progress wEb Apps
 2. Lazy loading
