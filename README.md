@@ -7,6 +7,7 @@ add the following to your enviroment variable path, path to npm and node
 ```
 %AppData%\npm
 C:\Users\user.name\AppData\Roaming\npm
+C:\Users\user.name\AppData\Roaming\npm\node_modules
 C:\Users\user.name\AppData\Roaming\npm\node_modules\@angular\cli
 ```
 
