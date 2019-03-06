@@ -1,6 +1,15 @@
 # Augular2+ Notes
 
 ### If you're having any using with error: *`ng: command not found`*
+
+add the following to your enviroment variable path, path to npm and node
+
+```
+%AppData%\npm
+C:\Users\user.name\AppData\Roaming\npm
+C:\Users\user.name\AppData\Roaming\npm\node_modules\@angular\cli
+```
+
 run
 ```
 export PATH=$PATH:/c/Users/theusername/AppData/Roaming/npm
