@@ -24,8 +24,8 @@
 - enforces via a transpililation 
 
 
-## TpyrScript Features
-- static typing 
+## TypeScript Features
+- static typing
 - interfaces
 - class properties
 - public/private Accessibility
